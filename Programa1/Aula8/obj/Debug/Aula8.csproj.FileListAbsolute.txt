@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Programa1\Aula8\bin\Debug\Aula8.exe.config
+C:\Users\aluno\source\repos\Programa1\Aula8\bin\Debug\Aula8.exe
+C:\Users\aluno\source\repos\Programa1\Aula8\bin\Debug\Aula8.pdb
+C:\Users\aluno\source\repos\Programa1\Aula8\obj\Debug\Aula8.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Programa1\Aula8\obj\Debug\Aula8.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Programa1\Aula8\obj\Debug\Aula8.exe
+C:\Users\aluno\source\repos\Programa1\Aula8\obj\Debug\Aula8.pdb
